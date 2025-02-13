@@ -80,7 +80,4 @@ This project uses `face_recognition` and `OpenCV` to recognize known faces via a
 - Adjust the `tolerance` parameter in `face_recognition.compare_faces()` for better accuracy.
 - For performance improvement, resize the webcam input frame before processing.
 
-## License
-
-This project is licensed under the MIT License.
 
